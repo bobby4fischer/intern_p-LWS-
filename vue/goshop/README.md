@@ -1,4 +1,4 @@
-# blog2
+# goshop
 
 ## Project setup
 ```
