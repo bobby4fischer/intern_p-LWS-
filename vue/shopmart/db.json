@@ -1,0 +1,264 @@
+{
+  "products": [ 
+    {
+      "id": 1,
+      "name": "Sleek T-Shirt",
+      "price": 24.99,
+      "description": "A high-quality, comfortable t-shirt for true Vue enthusiasts. Show off your favorite framework!",
+      "image": "https://onesciencenutrition.in/wp-content/uploads/2023/10/WhatsAppImage2023-07-15at3.36.31PM-1.webp",
+      "category": "Clothes",
+      "hotDeal": true
+    },
+    {
+      "id": 2,
+      "name": "Coffee Mug",
+      "price": 12.50,
+      "description": "Start your day with a dose of reactivity. Perfect for your morning coffee or tea.",
+      "image": "https://www.shutterstock.com/image-photo/espresso-coffee-transparent-cup-600nw-2512810803.jpg",
+      "category": "Essentials",
+      "hotDeal": true
+    },
+    {
+      "id": 3,
+      "name": "Pro Cap",
+      "price": 18.00,
+      "description": "Navigate your day in style with this sleek and modern cap. One size fits all.",
+      "image": "https://unheardofbrand.com/cdn/shop/files/DSC2510.jpg?v=1741106597",
+      "category": "Clothes",
+      "hotDeal": false
+    },
+    {
+      "id": 4,
+      "name": "Stickers Pack",
+      "price": 5.99,
+      "description": "A pack of 5 high-quality vinyl stickers for your laptop, water bottle, or notebook.",
+      "image": "https://images.meesho.com/images/products/442293210/kptea_512.avif?width=512",
+      "category": "Essentials",
+      "hotDeal": false
+    },
+    {
+      "id": 5,
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "description": "Ergonomic wireless mouse with precision tracking and long battery life.",
+      "image": "data:image/jpeg;base64,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",
+      "category": "Electronics",
+      "hotDeal": true
+    },
+    {
+      "id": 6,
+      "name": "Water Bottle",
+      "price": 15.99,
+      "description": "Stay hydrated with this sleek and durable water bottle. Perfect for your daily routine.",
+      "image": "https://www.justbottle.co/cdn/shop/files/white_550ml_bottle_1024px_white_background.jpg?v=1744291203",
+      "category": "Essentials",
+      "hotDeal": false
+    },
+    {
+      "id": 7,
+      "name": "Laptop Backpack",
+      "price": 45.99,
+      "description": "Spacious and comfortable backpack with dedicated laptop compartment and multiple pockets.",
+      "image": "https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-3d-render-laptop-bag-perspective-view-png-image_9192010.png",
+      "category": "Essentials",
+      "hotDeal": true
+    },
+    {
+      "id": 8,
+      "name": "Hoodie",
+      "price": 39.99,
+      "description": "Warm and comfortable hoodie perfect for those chilly days. Available in multiple sizes.",
+      "image": "https://media.istockphoto.com/id/1142211733/photo/front-of-sweatshirt-with-hood-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=inMPwtP-ebqhXD9_A3bHETPkyC37x0rFNSLYgf6rLMM=",
+      "category": "Clothes",
+      "hotDeal": false
+    },
+    {
+      "id": 9,
+      "name": "Smartphone",
+      "price": 699.99,
+      "description": "High-performance smartphone with a brilliant OLED display and long-lasting battery.",
+      "image": "https://c4.wallpaperflare.com/wallpaper/659/385/190/white-smartphone-thin-galaxy-s5-wallpaper-preview.jpg",
+      "category": "Electronics",
+      "hotDeal": true
+    },
+    {
+      "id": 10,
+      "name": "Bluetooth Speaker",
+      "price": 59.99,
+      "description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
+      "image": "https://media.istockphoto.com/id/637748318/photo/wireless-speaker-for-mobile-phone-speaker-for-smartphone.jpg?s=612x612&w=0&k=20&c=RxXUFzuFFlyW1_QblbZWO60Z29SXOLjhTDm_xu1xDuw=",
+      "category": "Electronics",
+      "hotDeal": false
+    },
+    {
+      "id": 11,
+      "name": "Running Shoes",
+      "price": 79.99,
+      "description": "Lightweight and breathable running shoes for maximum comfort during workouts.",
+      "image": "https://m.media-amazon.com/images/I/51wyhWcsr7L.jpg",
+      "category": "Sports",
+      "hotDeal": true
+    },
+    {
+      "id": 12,
+      "name": "Yoga Mat",
+      "price": 25.99,
+      "description": "Eco-friendly, non-slip yoga mat for all your stretching and workout needs.",
+      "image": "https://png.pngtree.com/png-clipart/20250519/original/pngtree-premium-yoga-mat-isolated-with-white-background-cutout-png-image_21033358.png",
+      "category": "Sports",
+      "hotDeal": false
+    },
+    {
+      "id": 13,
+      "name": "LED Desk Lamp",
+      "price": 32.50,
+      "description": "Adjustable LED desk lamp with multiple brightness levels and USB charging port.",
+      "image": "https://ekitchen.in/cdn/shop/files/1_beba27ba-7d67-4e35-a42e-32ef6fece850.jpg?v=1693457305",
+      "category": "Home-Garden",
+      "hotDeal": true
+    },
+    {
+      "id": 14,
+      "name": "Cookware Set",
+      "price": 119.99,
+      "description": "Premium non-stick cookware set including pots, pans, and utensils.",
+      "image": "https://media.istockphoto.com/id/1273858537/photo/set-of-black-non-stick-kitchen-utensils-on-a-white-background-pot-ladle-frying-pan-with-glass.jpg?s=612x612&w=0&k=20&c=pfipthUh9KH2w9ouUMvLrHTtybB51TaO4Em_WTspW6E=",
+      "category": "Home-Garden",
+      "hotDeal": false
+    },
+    {
+      "id": 15,
+      "name": "Fiction Novel - The Wanderer",
+      "price": 14.99,
+      "description": "An adventurous novel that takes you on a journey across mysterious lands.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAPsoRThwuoFR1T3MBSVbn9gYhEVN9VeZPA&s",
+      "category": "Books",
+      "hotDeal": false
+    },
+    {
+      "id": 16,
+      "name": "Programming with Vue.js",
+      "price": 29.99,
+      "description": "A comprehensive guide to mastering Vue.js and building modern web apps.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxc5cjzZCvsUnwSeAZE1xVHDNjVownytfVw&s",
+      "category": "Books",
+      "hotDeal": true
+    },
+    {
+      "id": 17,
+      "name": "Gaming Keyboard",
+      "price": 89.99,
+      "description": "Mechanical RGB gaming keyboard with programmable keys and wrist rest.",
+      "image": "https://m.media-amazon.com/images/I/717t-Uyhq9L.jpg",
+      "category": "Electronics",
+      "hotDeal": true
+    },
+    {
+      "id": 18,
+      "name": "4K Monitor",
+      "price": 299.99,
+      "description": "Ultra HD 27-inch monitor with vibrant colors and ultra-thin bezels.",
+      "image": "https://cdn.mos.cms.futurecdn.net/CtqPsjbJqR2jpkZytJHUc9.png",
+      "category": "Electronics",
+      "hotDeal": false
+    },
+    {
+      "id": 19,
+      "name": "Leather Wallet",
+      "price": 34.99,
+      "description": "Premium genuine leather wallet with RFID protection and multiple card slots.",
+      "image": "https://media.istockphoto.com/id/182485898/photo/leather-wallet.jpg?s=612x612&w=0&k=20&c=xvIiSedt1lPqFj8d0S54iMqNSE25ROJRVejjJ7Vg-yM=",
+      "category": "Essentials",
+      "hotDeal": false
+    }, 
+    {
+      "id": 20,
+      "name": "Winter Jacket",
+      "price": 99.99,
+      "description": "Insulated winter jacket with waterproof outer layer and warm fleece lining.",
+      "image": "https://www.shutterstock.com/image-photo/brown-black-winter-ski-jacket-600nw-2542077459.jpg",
+      "category": "Clothes",
+      "hotDeal": false
+    },
+    {
+      "id": 21,
+      "name": "Formal Shirt",
+      "price": 39.50,
+      "description": "Slim-fit cotton formal shirt perfect for office wear.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkayrCHTQfs71O9Kn5vRb-A-LNyoPQD4j1GA&s",
+      "category": "Clothes",
+      "hotDeal": true
+    },
+    {
+      "id": 22,
+      "name": "Mountain Bike",
+      "price": 549.99,
+      "description": "Sturdy 21-speed mountain bike with disc brakes and front suspension.",
+      "image": "https://img.freepik.com/premium-photo/green-mountain-bike-isolated-white-background-3d-rendering_101266-23240.jpg",
+      "category": "Sports",
+      "hotDeal": false
+    },
+    {
+      "id": 23,
+      "name": "Football",
+      "price": 29.99,
+      "description": "Official size and weight football suitable for matches and training.",
+      "image": "https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-blue-starry-football-texture-set-against-a-clean-white-background-image_13827099.png",
+      "category": "Sports",
+      "hotDeal": true
+    },
+    {
+      "id": 24,
+      "name": "Garden Tool Set",
+      "price": 44.99,
+      "description": "Complete garden tool set with gloves, trowel, rake, and pruners.",
+      "image": "https://www.jiomart.com/images/product/original/rvle5ujqq7/kuber-industries-green-black-stainless-steel-garden-tools-hand-weeder-and-fork-set-of-5-product-images-orvle5ujqq7-p599744146-0-202303231031.jpg?im=Resize=(1000,1000)",
+      "category": "Home-Garden",
+      "hotDeal": false
+    },
+    {
+      "id": 25,
+      "name": "Decorative Plant",
+      "price": 18.99,
+      "description": "Artificial decorative plant in a ceramic pot, perfect for indoor spaces.",
+      "image": "https://media.istockphoto.com/id/1372896722/photo/potted-banana-plant-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=bioeNAo7zEqALK6jvyGlxeP_Y7h6j0QjuWbwY4E_eP8=",
+      "category": "Home-Garden",
+      "hotDeal": true
+    },
+    {
+      "id": 26,
+      "name": "Science Encyclopedia",
+      "price": 27.50,
+      "description": "Illustrated science encyclopedia for curious minds of all ages.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99VFglrDd5oZRBsCbzs340uYspn2uvYrCnQ&s",
+      "category": "Books",
+      "hotDeal": false
+    },
+    {
+      "id": 27,
+      "name": "Cookbook - 100 Easy Recipes",
+      "price": 19.99,
+      "description": "A collection of easy, delicious recipes for everyday cooking.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30XPdkDzjbg9yXgEjgAWgQPgONnAAQ3sZIA&s",
+      "category": "Books",
+      "hotDeal": true
+    }, 
+    {
+      "id": 28,
+      "name": "Luxury Bedding Set",
+      "price": 129.99,
+      "description": "Soft and breathable 6-piece bedding set with duvet cover and pillowcases.",
+      "image": "https://www.malako-india.com/cdn/shop/files/malako-royale-100-cotton-off-white-botanic-king-size-5-piece-quilted-bedspread-set-573112.jpg?v=1716196849",
+      "category": "Home-Garden",
+      "hotDeal": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "password123"
+    }
+  ]
+}
